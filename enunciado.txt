@@ -7,4 +7,3 @@ Realice lo mismo del punto (b) pero con PHP.
 Realice (a) con el codeigniter pero sin Bases de Datos.
 
 Suba cada programa en Github, comparta el mismo a la cuenta msilva@fcpn.edu.bo (Solo súbalo cuando tenga el código final, no es necesario que el mismo este activo todo el tiempo).
-
